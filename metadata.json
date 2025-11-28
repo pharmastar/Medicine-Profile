@@ -1,0 +1,5 @@
+{
+  "name": " MedicoWeb",
+  "description": "An AI-powered application to generate complete, updated, copyright-free, and SEO-friendly drug profiles. Search for any generic or brand name to receive a detailed drug monograph.",
+  "requestFramePermissions": []
+}
